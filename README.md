@@ -7,7 +7,6 @@
 Every week I take a top UI screenshot (at random) on dribbble and time challenge myself to recreating as much as I can in the time limit. Keeps my CSS chops sharp. 
 
 Some previous challenges:
-- https://github.com/johnrjj/recent-files-ui
 - https://github.com/johnrjj/chat-ui
 - https://github.com/johnrjj/elegant-ui
 - https://github.com/johnrjj/reporting-dashboard
