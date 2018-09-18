@@ -8,7 +8,7 @@ Every week I take a top UI screenshot (at random) on dribbble and time challenge
 
 ### This Month's Challenge
 
-Time limit: 1 hour (lunch break)
+Time limit: 1 hour.
 
 This week the Dribble is a great Dribbble called 'Flight & Hotel exploration page', [found here](https://dribbble.com/shots/4951422-Flight-Hotel-App-Exploration). Screenshot below:
 
