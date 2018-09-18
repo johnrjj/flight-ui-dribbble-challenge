@@ -45,4 +45,6 @@ That's really it! Our React stack is super lightweight and prototype-friendly.
 
 You can find the demo hosted [here](https://flight-ui-challenge.surge.sh). 
 
+I didn't finish within an hour, but the layout and the big picture is nearly complete! Fun excercise.
+
 Thanks!
